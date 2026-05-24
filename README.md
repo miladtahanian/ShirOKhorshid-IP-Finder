@@ -54,7 +54,7 @@ Supports: **Akamai · Google CDN · Amazon CloudFront · Microsoft Azure CDN**
 
 **Option A — GitHub Pages (recommended):**
 ```
-https://YOUR_USERNAME.github.io/cdn-ip-finder/
+https://miladtahanian.github.io/cdn-ip-finder/
 ```
 Open this URL inside Iran without VPN for accurate results.
 
@@ -339,7 +339,7 @@ GPL-3.0 — same as ShirOKhorshid and Psiphon
 
 **روش الف — GitHub Pages (توصیه‌شده):**
 ```
-https://YOUR_USERNAME.github.io/cdn-ip-finder/
+https://miladtahanian.github.io/cdn-ip-finder/
 ```
 این لینک را از داخل ایران و بدون VPN باز کنید تا نتایج دقیق باشد.
 
